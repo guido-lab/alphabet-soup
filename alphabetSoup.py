@@ -6,7 +6,7 @@ def checkAlphabetSoup(message, alphabet):
     alphabet_list = list(alphabet) # convert the alphabet taken from the bowl into an array
     is_included = True # boolean variable for checking the state of program
 
-    # checking if the message is not empty
+    # checking if the message is not empty 
     if len(message_list) > 0:
         # itrating into the list of message chars
         for msg_char in message_list:
