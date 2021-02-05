@@ -25,6 +25,6 @@ def checkAlphabetSoup(message, alphabet):
 
 if __name__ == "__main__":
     start_time = time.time()
-    print(checkAlphabetSoup("annastasia", "basnkaqltadlhflvkbafdjwertyuioyusiofgnhjk"))
+    print(checkAlphabetSoup("annastasia", "basnkaqltadlhflvkbaqqqqfdjwertyuioyusiofgnhjk"))
     print("Execution time is: %s seconds " % (time.time() - start_time))
 
