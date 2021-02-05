@@ -14,7 +14,7 @@ With a complexity of O(n) where "n" is the lenght of the message,  the execution
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/guido-lab/kira.git
+git clone https://github.com/guido-lab/alphabet-soup.git
 ```
 
 Create virtual enviroment:
