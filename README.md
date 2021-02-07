@@ -16,7 +16,7 @@ Assumptions:
 
 The function should determine if you can write your message with the letters found in your bowl of soup. The function should return True or False accordingly. Try to make your function efficient.  Please use Big-O notation to explain how long it takes your function to run in terms of the length of your message (m) and the number of letters in your bowl of soup (s). You may write the function in any programming language you prefer - but please consider the language required by the position for which you are applying.
  
-.
+. 
 
 Logic:
 
